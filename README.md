@@ -1,3 +1,3 @@
 # Grocery Store Simulation (University Project)
 
-Simulation of a Grocery store with different types and number of items, customers, and checkout lines.
+Event-driven simulation of a grocery store with different types and  different number of items, customers, and checkout lines.
